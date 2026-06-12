@@ -84,3 +84,6 @@ When you're done, you can deactivate the virtual environment:
 ```bash
 deactivate
 ```
+
+
+Project completed and documented as part of Gen AI Academy APAC Edition Cohort 2.
